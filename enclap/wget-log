@@ -1,0 +1,6 @@
+--2024-03-18 15:32:23--  https://sc.chinaz.com/tools/ajax.ashx?action=mp3play
+Resolving sc.chinaz.com (sc.chinaz.com)... 113.125.197.184, 150.138.105.234, 240e:926:1:100::7a, ...
+Connecting to sc.chinaz.com (sc.chinaz.com)|113.125.197.184|:443... connected.
+ERROR: cannot verify sc.chinaz.com's certificate, issued by ‘CN=TrustAsia RSA DV TLS CA G2,O=TrustAsia Technologies\\, Inc.,C=CN’:
+  Unable to locally verify the issuer's authority.
+To connect to sc.chinaz.com insecurely, use `--no-check-certificate'.
